@@ -1,2 +1,2 @@
 # AI-Analytics
-This repository is created to compared foundational models at different task, using visualisation and statistics.
+This repository is created to compare foundational models at different tasks and levels of complexity, using visualisation and statistics.
