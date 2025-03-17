@@ -37,3 +37,23 @@ Data was facilitated by [DataAnnotationTech](https://www.dataannotation.tech/)
 Tools used: ```pandas```, ```plotly```, ```statsmodels``` and ```scipy``` and ```scikit-posthocs```
 
 
+## Bard vs ChatGPT
+
+<center>
+<table>
+    <tr>
+      <td>
+      <img src="md-visualisations/bard_vs_gpt/categories_pie.svg" >
+      </td>
+      <td>
+      <img src="md-visualisations/bard_vs_gpt/ratings_pie.svg" >
+      </td>
+      <td>
+      <img src="logos/statsmodels.svg" width="100" height="50"></p>
+      </td>
+     </tr>
+</table>
+</center>
+
+
+ <img src="md-visualisations/bard_vs_gpt/ratings_pie.svg" >
