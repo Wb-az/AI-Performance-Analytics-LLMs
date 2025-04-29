@@ -4,7 +4,7 @@ This repository was created to compare the performance of foundational models at
 
 **Data**:
 
-Data was facilitated by [DataAnnotationTech](https://www.dataannotation.tech/) 
+Data was facilitated by [DataAnnotation Tech](https://www.dataannotation.tech/) 
 
 
 **Categories**:
